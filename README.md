@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Library Management Software](https://github.com/Smajkan/Library-Management-Software)
 
-- 🌱 I’m currently learning **ReactJS, C#, Node.js...**
+- 🌱 I’m currently learning **Web dev., Java, Android Dev., ...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Smajkan](https://github.com/Smajkan)
 
