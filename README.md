@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldin</h1>
 <h3 align="center">A developer from Bosnia and Herzegovina</h3>
 
-- 🔭 I’m currently working on [Library Management Software](https://github.com/Smajkan/Library-Management-Software)
+- 🔭 I’m currently working on /
 
 - 🌱 I’m currently learning ****
 
