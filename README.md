@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on /
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning Python (relearning things that I forgot)****
 
 - 👨‍💻 All of my projects are available at [https://github.com/Smajkan](https://github.com/Smajkan)
 
