@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aldin</h1>
+<h1 align="center">Hi 👋, I'm Aldin a.k.a str1ng</h1>
 <h3 align="center">A developer from Bosnia and Herzegovina</h3>
 
 - 🔭 I’m currently working on  RebootRouter open-source project
